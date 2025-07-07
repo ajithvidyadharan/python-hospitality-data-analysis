@@ -31,18 +31,6 @@ This project aims to perform a comprehensive analysis of hotel industry data usi
 - **Libraries**: Pandas, Matplotlib, Seaborn
 - **Concepts**: Data Cleaning, Transformation, Exploratory Data Analysis (EDA)
 
-## 📁 Project Structure
-
-├── Final Project Hospitality Analysis.ipynb
-├── data/
-│ ├── hotel_bookings.csv
-│ └── ...
-└── README.md
-
-less
-Copy
-Edit
-
 ## 🔗 LinkedIn Project Post
 
 Check out the full post on LinkedIn:  
